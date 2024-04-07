@@ -3,6 +3,7 @@ google-generativeai
 python-dotenv
 langchain
 PyPDF2==3.0.1
+PyPDF2[crypto]
 chromadb
 faiss-cpu
 langchain_google_genai
